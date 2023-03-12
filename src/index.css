@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Classes */
+.header1{
+  text-align: center;
+}
+
+.footer1{
+  text-align: center;
+}
